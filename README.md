@@ -1,4 +1,4 @@
-# Instacart MarketBasket Analysis 
+# Instacart Market Basket Analysis 
 
 **A Product Recommendation System for the Digital Customer**
 
