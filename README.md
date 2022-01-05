@@ -20,6 +20,6 @@ The Instacart Market Basket Analysis dataset is a relational set of files descri
 
 The analysis compares three machine learning algorithms that will build models based on the sample data.  Finally, the report concludes with a sample of a predicted shopping cart for an Instacart user.
 
-Python Programming Language has been chosen as the programming language for the analysis. 
+Python Programming Language was selected as the programming language for the analysis. 
 
 
