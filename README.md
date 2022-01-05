@@ -1,6 +1,6 @@
 # Instacart MarketBasket Analysis 
 
-**Product Recommendation for the Digital Customer**
+**A Product Recommendation System for the Digital Customer**
 
 The online grocery marketplace is in the middle of digital disruption.  Consumers increasingly shop for food, personal care items, and other household items through apps and websites that offer products delivered to their homes.  In addition, the increasing number of online consumers present online stores with the opportunity and challenge to curate to their taste in a personalized and timely manner. 
 
